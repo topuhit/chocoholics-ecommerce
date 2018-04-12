@@ -5,6 +5,19 @@
  */
 
 /*!
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+ * Determine if an object is a Buffer
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*!
+>>>>>>> 510ececdddcc04bdc09e5f28205792b1ebad9937
+>>>>>>> dd9cbe3c8a02e7def857645235292827bdc787c4
  * @overview es6-promise - a tiny implementation of Promises/A+.
  * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
  * @license   Licensed under MIT license
